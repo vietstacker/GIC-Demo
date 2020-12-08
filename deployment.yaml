@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: rh-helloworld
-        image: quay.io/hluong/helloworld-python:0.0.1-17
+        image: quay.io/hluong/helloworld-python:1.0
         resources:
           limits:
             memory: "128Mi"
