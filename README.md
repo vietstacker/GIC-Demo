@@ -1,1 +1,1 @@
-# GIC_Demo
+# OCBC_Demo
